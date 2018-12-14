@@ -1,0 +1,76 @@
+adept,DMG,107,NPC spellcaster
+aristocrat,DMG,108,"NPC, a blueblood"
+artificer,ECS,29,Crafts magic items
+barbarian,PH*,24,A raged filled melee combatant
+bard,PH*,26,A jack of all trades magic user
+cleric,PH*,30,A divine tier 1 spellcaster 
+commoner,DMG,108,"NPC, everyman"
+druid,PH*,33,A nature themed spellcaster who can turn into animals
+eidolon,Gh,16,Fighter ghost
+eidoloncer,Gh,17,Spellcaster ghost
+expert,DMG,109,Artisans
+factotum,Du,14,A true jack of all trades
+favored soul,CD,6,A spontaneous version of a Cleric
+fighter,PH*,37,A warrior
+healer,MH,8,A spellcaster who heals others
+hexblade,CW,5,An arcane gish
+marshal,MH,11,Uses auras to help their allies
+monk,PH*,39,A martial artist
+mystic,DCS,47,A divine caster who doesn't worship any deity.
+ninja,CAd,5,An spy or assassin
+noble,DCS,50,"NPC, a noble"
+paladin,PH*,42,A divine gish
+psion,XPH,19,A psionic manifester similar to a Wizard
+psychic warrior,XPH,24,A psionic gish
+ranger,PH,46,Druid lite
+rogue,PH*,49,A skill monkey glass cannon
+samurai,CW,8,A two weapon fighting melee class
+scout,CAd,10,A mobile skill monkey 
+shaman,OA,22,A divine caster.
+shugenja,CD,10,A spontaneous divine caster
+sohei,OA,27,Sohei are warrior monks
+sorcerer,PH*,51,A spontaneous version of a wizard
+soulknife,XPH,26,A psonic class that's god awful
+spellcaster,UA,77,A generic class that has a diverse spell list
+spellthief,CAd,13,A gish skill monkey that can steal some magic
+spirit shaman,CD,14,A spontaneous version of a Druid
+swashbuckler,CW,11,A failed Fighter Rogue hybrid
+warlock,CAr,5,A type of caster who has at will abilities
+warmage,CAr,10,A spontaneous arcane blaster
+warrior,DMG,109,NPC version of the Figther
+warrior,UA,78,A generic class that is a basic combatant.
+wilder,XPH,29,The Psonic version of a Sorcerer
+wizard,PH*,55,A potent spellcaster schooled in the arcane arts.
+wu jen,CAr,14,An eastern themed Wizard
+archivist,HH,82,A divine Wizard
+dread necromancer,HH,84,A spontaneous necromancy focused arcane caster
+incarnate,MoI,20,An Incarnum using class
+soulborn,MoI,25,An Incarnum using class; somehow worse than a Paladin
+totemist,MoI,29,A nature themed Incarnum using classs
+binder,TM,9,Uses supernatural abilities; runs on a cool down system
+shadowcaster,TM,111,A shadow themed alternate magic user
+truenamer,TM,198,Truenaming magic; horribly designed
+ardent,CP,5,A Psonic Cleric
+divine mind,CP,9,"Also a Psonic Cleric, but it sucks"
+lurk,CP,13,A lurk is a psionic character who has honed her mental talents to a deadly focus.
+duergar racial class,CP,144,Duergar or gray dwarves
+githyanki racial class,CP,146,Githyanki
+githzerai racial class,CP,147,Ggithzera
+half-giant racial class,CP,148,Human-giant hybrids
+thri-kreen racial class,CP,149,Mantis warriors.
+erudite (variant psion),CP,153,The true Psonic Wizard
+beguiler,PH2,6,A spontaneous arcane caster that focuses on illusions and mind control
+dragon shaman,PH2,11,A dragon themed class that uses auras
+duskblade,PH2,19,An Arcane gish
+knight,PH2,24,A tank
+crusader,ToB,8,"Like a Paladin, but good"
+swordsage,ToB,15,"Like a Monk, but good"
+warblade,ToB,20,"Like a Fighter, but good"
+dragonfire adept,DM,24,A dragon themed magic user with at will abilities
+battle dancer,DC,26,"Like a Monk, perhaps even worse"
+death master,DC,29,A prepared version of a Dread Necromancer
+jester,DC,36,An anti Bard
+mountebank,DC,42,A truly terrible skill monkey
+savant,DC,45,A jack of all trades; can cast some magic
+sha'ir,DC,51,An arcane spellcaster who fetches spells via a genie
+,,,

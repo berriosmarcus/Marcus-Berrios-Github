@@ -1,0 +1,70 @@
+﻿adept,DMG,107,This NPC class possesses a combination of arcane and divine skills.
+aristocrat,DMG,108,This NPC class contains people who are usually educated wealthy individual who were born into high position.
+artificer,ECS,29,Artificers are perhaps the ultimate magical dabblers.
+barbarian,PH*,24,A ferocious warrior who uses fury and instinct to bring down foes.
+bard,PH*,26,A performer whose music works magic -- a wanderer a tale-teller and a jack-of-all trades.
+cleric,PH*,30,A master of divine magic and a capable warrior as well.
+commoner,DMG,108,This NPC class contains the laborers of the world such as innkeepers servants blacksmiths farmers and fisherfolk.
+druid,PH*,33,One who draws energy from the natural world to cast divine spells and gain strange magical powers.
+eidolon,Gh,16,This variant class for ghosts emphasizes fighting abilities.
+eidoloncer,Gh,17,This variant class for ghosts emphasizes spellcasting abilities.
+expert,DMG,109,This NPC class contains people such as skilled artisans specialist laborers and ingenious inventors.
+factotum,Du,14,The factotum can mimic the abilities of others and fill in when the need is greatest.
+favored soul,CD,6,Favored souls cast divine spells by means of an innate connection rather than through laborious training and prayer so their divine connection is natural rather than learned.
+fighter,PH*,37,A warrior with exceptional combat capability and unequaled skill with weapons.
+healer,MH,8,A healer is adept both at detecting the ailments of allies and understanding the coarse unruly thoughts of beasts.
+hexblade,CW,5,Combining the dynamic powers of martial prowess and arcane might the hexblade presents a deadly challenge to opponents unused to such a foe.
+marshal,MH,11,Trained in the basics of fighting marshals possess a general knowledge of weapons and armor.
+monk,PH*,39,A martial artist whose unarmed strikes hit fast and hard -- a master of exotic powers.
+mystic,DCS,47,Mystics are spellcasters who have learned to channel divine energy without worshiping (or even acknowledging) any deity.
+ninja,CAd,5,Highly skilled spies and assassins ninjas can master a broad range of skills and combat techniques.
+noble,DCS,50,Nobles have the ability to use their background education natural charm and skills in social maneuvering to their advantage in day-to-day lives.
+paladin,PH*,42,A champion of justice and destroyer of evil protected and strengthened by an array of divine powers.
+psion,XPH,19,A seeker after psionic secrets; a master of the mind and the thoughts of others.
+psychic warrior,XPH,24,A warrior who combines combat skill with psionic powers.
+ranger,PlH,34,Planar substitution levels.
+rogue,PH*,49,A tricky skillful scout and spy who wins the battle by stealth rather than brute force.
+samurai,CW,8,Wielding their signature katana and wakizashi simultaneously samurai are as potent in melee as a fighter although they are less versatile.
+scout,CAd,10,A scout has some training in weapons and a unique combat style that favors fast movement and devastating attacks.
+shaman,OA,22,Shamans are intermediaries between the mortal world and the realm of spirits.
+shugenja,CD,10,The shugenja is a divine spellcaster who casts spells by attuning himself to the primal energies around him and focusing such energy through his body to produce magical effects.
+sohei,OA,27,Sohei are warrior monks.
+sorcerer,PH*,51,A spellcaster with inborn magical ability.
+soulknife,XPH,26,A warrior who fights with an idealized blade of personal mental energy.
+spellcaster,UA,77,A generic class that has an array of magical effects at her beck and call.
+spellthief,CAd,13,Spellthieves use skill and arcane magic to drain the abilities of their opponents and turn their foes' own powers against them.
+spirit shaman,CD,14,By bargaining with living spirits the spirit shaman gains power over the natural world and mighty divine magic.
+swashbuckler,CW,11,The swashbuckler embodies the concepts of daring and panache.
+warlock,CAr,5,A supernatural character whose sinister powers are inborn abilities not spells.
+warmage,CAr,10,A militant spellcaster whose training focuses on battlefield magic.
+warrior,DMG,109,This NPC class contains combatants such as soldiers guards and militia.
+warrior,UA,78,A generic class that is a basic combatant.
+wilder,XPH,29,A passionate reckless talent who wields uncontrolled psionic power.
+wizard,PH*,55,A potent spellcaster schooled in the arcane arts.
+wu jen,CAr,14,A mysterious wizard of the eastern world whose arcane lore revolves around mastery of the elements.
+archivist,HH,82,Archivists seek out esoteric sources of divine lore wherever those sources might be securing those secrets for themselves and their fellow scholars.
+dread necromancer,HH,84,A practitioner of vile and forbidden arts the dread necromancer roots about in graveyards searching out moldering components for her obscene spells.
+incarnate,MoI,20,Incarnum is a tool you can use to manipulate the physical manifestations of moral and ethical forces and wield them in righteous pursuit of an ideal.
+soulborn,MoI,25,As a soulborn you use incarnum to enhance your natural combat ability.
+totemist,MoI,29,You channel the soul energy of magical beasts to make your soulmelds and claim them as your totems to acquire a share in their power.
+binder,TM,9,By drawing their seals and speaking words of power the binder summons strange entities bargains with them and binds them to his service.
+shadowcaster,TM,111,The shadowcaster understands the true primal power of darkness attunes herself to the Plane of Shadow and learns great shadow mysteries the equal of any mundane spell.
+truenamer,TM,198,If you want to understand the secret language of the universe the truenamer class is for you.
+ardent,CP,5,An ardent's pursuit of various cosmic philosophies gives her access to psionic power in a unique way: through psionic mantles.
+divine mind,CP,9,A divine mind is a psionic character who channels the power of the divine through pisonic talent instead of faith.
+lurk,CP,13,A lurk is a psionic character who has honed her mental talents to a deadly focus.
+duergar racial class,CP,144,The duergar or gray dwarves lead lives of neverending toil in great underground foundry-cities.
+githyanki racial class,CP,146,Githyanki are an ancient race of martial humanoids residing on the Astral Plane.
+githzerai racial class,CP,147,The githzerai are attuned to the mysteries of the inner self and are considered a race of ascetics who harness the power of the mind and the spirit.
+half-giant racial class,CP,148,Human-giant hybrids half-giants were bred by cruel sorcerer-kings who used them as warriors and laborers in a dry land.
+thri-kreen racial class,CP,149,Fierce hunters and faultless trackers the thri-kreen are a race of insectfolk sometimes known as mantis warriors.
+erudite (variant psion),CP,153,As an alternative to the standard psion class the erudite is a psionic character who follows a scholarly and self-reflective road to power instead of a merely self-conscious path like the psion follows.
+beguiler,PH2,6,If you delight in manipulating others either to their disadvantage or for their own good then the beguiler is the class for you.
+dragon shaman,PH2,11,If you gaze at dragons with awe and aspire to share their power and majesty then the dragon shaman is the class for you.
+duskblade,PH2,19,If you find you can't choose between being an arcane spellcaster who zaps your enemies with powerful spells and a nimble powerful front-line melee character who lays them low with a sword the duskblade is the perfect class for you.
+knight,PH2,24,The knight class is a great choice if you want to play a tough durable melee combatant whose strong personality allows you to manipulate your foes.
+crusader,ToB,8,Devoted knight divine agent instrument of vengeance peerless fighting machine -- the crusader is a warrior dedicated to good evil law chaos or some other cause.
+swordsage,ToB,15,A master of martial maneuvers the sword sage is a physical adept -- a blade wizard whose knowledge of the Sublime Way lets him unlock potent abilities many of which are overtly supernatural or magical in nature.
+warblade,ToB,20,The warblade was born for conflict. Swift strong enduring and utterly confident in his martial skills he seeks to test himself against worthy foes.
+dragonfire adept,DM,24,Whether they are bold champions defending the weak and downtrodden or merciless raiders seeking might and riches dragonfire adepts are imposing figures who command the magic of dragonkind.
+,,,

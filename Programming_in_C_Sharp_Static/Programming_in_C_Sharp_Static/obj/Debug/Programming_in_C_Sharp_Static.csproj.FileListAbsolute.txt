@@ -1,0 +1,7 @@
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\bin\Debug\Programming_in_C_Sharp_Static.exe.config
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\bin\Debug\Programming_in_C_Sharp_Static.exe
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\bin\Debug\Programming_in_C_Sharp_Static.pdb
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\obj\Debug\Programming_in_C_Sharp_Static.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\obj\Debug\Programming_in_C_Sharp_Static.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\obj\Debug\Programming_in_C_Sharp_Static.exe
+C:\Users\Marcus\source\repos\Programming_in_C_Sharp_Static\Programming_in_C_Sharp_Static\obj\Debug\Programming_in_C_Sharp_Static.pdb
